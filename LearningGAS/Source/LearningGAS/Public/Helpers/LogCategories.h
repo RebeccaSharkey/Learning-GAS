@@ -7,3 +7,6 @@
 DECLARE_LOG_CATEGORY_EXTERN(LogAssetManagerCustom, Verbose, All)
 inline DEFINE_LOG_CATEGORY(LogAssetManagerCustom)
 
+DECLARE_LOG_CATEGORY_EXTERN(LogCharacterAttributeSetBase, Verbose, All)
+inline DEFINE_LOG_CATEGORY(LogCharacterAttributeSetBase)
+
